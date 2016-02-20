@@ -1,0 +1,1 @@
+Mnemonic = Npm.require('mnemonic');
